@@ -1,10 +1,10 @@
 # Python-Practice-Project
 Project 1: Snake Water Gun Game
 - fun game with computer
-================================
+
 Project 2: Guess The Number
 - fun game as guess the number with computer
-================================
+
 Project 3: Mini Jarvis
 - Perform the action as open website and play youtube songs
 - Steps for virtual environment and other commands which we need in configure task.
